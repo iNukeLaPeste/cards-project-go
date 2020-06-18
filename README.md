@@ -1,2 +1,2 @@
 # cards-project-go
-First project in Go
+Currently learning Go, this is my first project with this language.
